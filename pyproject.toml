@@ -10,7 +10,7 @@ numpy = "^1.22.2"
 Flask = "^2.2.0"
 urllib3 = "1.26.15"
 poetry = "1.1.13"
-binance = "^0.3"
+python-binance = "1.0.19"
 pandas = "^2.0.3"
 requests = "^2.31.0"
 
