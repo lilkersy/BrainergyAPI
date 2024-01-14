@@ -1,12 +1,4 @@
 [[package]]
-name = "binance"
-version = "0.3"
-description = "Binance API wrapper"
-category = "main"
-optional = false
-python-versions = "*"
-
-[[package]]
 name = "blinker"
 version = "1.6.2"
 description = "Fast, simple object-to-object and broadcast signaling"
